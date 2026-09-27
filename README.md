@@ -2,7 +2,7 @@
 
 This repo contains a BIOS I modded myself for the Aspire A7 A715-43G. Thanks to this unlocked BIOS, we can access the BIOS menu used by developers so that is, the Advanced tab.
 
-<img width="3340" height="1844" alt="bios" src="https://github.com/user-attachments/assets/534b6cf8-d7f5-4bfb-bd1c-aee7bf874986" />
+<img width="1366" height="754" alt="bios" src="https://github.com/user-attachments/assets/b447b1ee-2cc7-4f3f-b1d6-a29901ce65d9" />
 
 ## How to flash bios?
 
